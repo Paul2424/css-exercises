@@ -1,0 +1,19 @@
+.alike{
+    background: #ff7777;
+    font-family: Verdana, sans-serif;
+}
+
+#secondelement{
+    color: #0004ff;
+    font-size: 2rem;
+}
+
+.alike.slightly-diff{
+    font-size: 1.5rem;
+}
+
+#fourthelement{
+    background: hsl(140, 78%, 47%);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
